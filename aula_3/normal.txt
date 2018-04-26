@@ -1,0 +1,6 @@
+this is
+the normal file
+with the
+normal text
+in the
+normal order
